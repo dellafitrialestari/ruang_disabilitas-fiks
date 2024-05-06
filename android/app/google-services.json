@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "596158069577",
+    "project_id": "flutter-authentication-a-3fc81",
+    "storage_bucket": "flutter-authentication-a-3fc81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596158069577:android:1a5582dad1676034603898",
+        "android_client_info": {
+          "package_name": "com.mycompany.ruangdisabilitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596158069577-nbm14e7ucasmatl6nv1htf9ai1cjh8bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ruangdisabilitas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "596158069577-u0afubp6ccm2vn4siq75l92qvrm222d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOzczbs6CQbcqR64v0QzJtnrET2SsIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596158069577-8k84bacsdb22ji93dk0bgdpp6nd5gbj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596158069577-nq9ofndct6alaunfpt7ilcvkknrbff85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ruangdisabilitas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
