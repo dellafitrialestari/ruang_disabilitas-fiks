@@ -10,5 +10,5 @@
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/a5f604be-c275-4e07-b5be-2ea6ddf7f41f" alt="komunitas" style="width:16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/b5ae5777-e299-4faa-ba60-ff4062e778a7" alt="pricing(1)" style="width:16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/fd938a09-87c4-4966-8039-34903172e091" alt="psikolog-list" style="width:16%">
-<img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/1d43b64c-3b0d-4393-9548-9bd1433e95b6" alt="desc psikolog" style="width:16%">
-<img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/bb670e9b-75fa-4bb4-b372-3ef6c8abe37b" alt="pricing" style="width:16%">
+<img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/1d43b64c-3b0d-4393-9548-9bd1433e95b6" alt="desc psikolog" style="width:8%">
+<img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/bb670e9b-75fa-4bb4-b372-3ef6c8abe37b" alt="pricing" style="width:10%">
