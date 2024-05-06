@@ -15,7 +15,8 @@
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/1d43b64c-3b0d-4393-9548-9bd1433e95b6" alt="desc psikolog" style="width:10%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/bb670e9b-75fa-4bb4-b372-3ef6c8abe37b" alt="pricing" style="width:12%">
 
-**Cara penggunaan**  
+**Cara penggunaan** 
+---
 1. Clone atau download projek aplikasi Flutter.
    ```
    git clone <[url_project_repository](https://github.com/dellafitrialestari/ruang_disabilitas-fiks.git)>
