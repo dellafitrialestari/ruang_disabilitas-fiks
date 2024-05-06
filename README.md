@@ -1,5 +1,6 @@
 # RuangDisabilitas
-
+---
+**Screenshot tampilan fitur** 
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/100acaf6-3356-4be8-8be0-8fd083c9bbe0" alt="consult" style="width: 16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/4897a5da-1621-4e57-bcdb-f7e5b2683a9a" alt="desc psikolog(1)" style="width:16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/be08761a-7b97-4397-810e-8c9ecd256aaa" alt="desc psikolog(2)" style="width:16%">
@@ -12,3 +13,22 @@
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/fd938a09-87c4-4966-8039-34903172e091" alt="psikolog-list" style="width:16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/1d43b64c-3b0d-4393-9548-9bd1433e95b6" alt="desc psikolog" style="width:10%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/bb670e9b-75fa-4bb4-b372-3ef6c8abe37b" alt="pricing" style="width:12%">
+
+**Cara penggunaan**  
+1. Clone atau download projek aplikasi Flutter.
+   ```
+   git clone <[url_project_repository](https://github.com/dellafitrialestari/ruang_disabilitas-fiks.git)>
+   ```
+3. Buka projek aplikasi Flutter di Android Studio.
+4. Pastikan Anda terkoneksi dengan perangkat Android atau emulator.
+5. Klik tombol "Run" di Android Studio.
+6. Tunggu hingga aplikasi selesai dijalankan.
+7. Aplikasi Flutter Anda akan terbuka di perangkat Android atau emulator.
+8. Gunakan aplikas RuangDisabilitas
+     * Klik tombol "Masuk" jika sudah memiliki akun
+     * Klik "Daftar" jika belum memiliki akun, kemudian lakukan proses masuk ke aplikasi
+     * User akan masuk ke halaman home
+     * User dapat mengakses fitur development video yang berisi video tentang kesehatan mental disabilitas
+     * User dapat memilih fitur pengembangan diri yang berisi informasi dan komunitas terkait kesehatan mental
+     * User dapat memilih psikolog disertai juru bahasa isyarat dan melakukan konsultasi
+     * User dapat edit profil, melihat pricing, logout, dll
