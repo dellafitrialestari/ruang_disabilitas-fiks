@@ -1,6 +1,7 @@
 # RuangDisabilitas
----
+
 **Screenshot tampilan fitur** 
+---
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/100acaf6-3356-4be8-8be0-8fd083c9bbe0" alt="consult" style="width: 16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/4897a5da-1621-4e57-bcdb-f7e5b2683a9a" alt="desc psikolog(1)" style="width:16%">
 <img src="https://github.com/dellafitrialestari/ruang_disabilitas-fiks/assets/96574196/be08761a-7b97-4397-810e-8c9ecd256aaa" alt="desc psikolog(2)" style="width:16%">
