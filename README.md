@@ -25,18 +25,32 @@
 ---
 1. Clone atau download projek aplikasi Flutter.
    ```
-   git clone <[url_project_repository](https://github.com/dellafitrialestari/ruang_disabilitas-fiks.git)>
+   git clone <https://github.com/dellafitrialestari/ruang_disabilitas-fiks.git>
    ```
 3. Buka projek aplikasi Flutter di Android Studio.
 4. Pastikan Anda terkoneksi dengan perangkat Android atau emulator.
 5. Klik tombol "Run" di Android Studio.
 6. Tunggu hingga aplikasi selesai dijalankan.
 7. Aplikasi Flutter Anda akan terbuka di perangkat Android atau emulator.
-8. Gunakan aplikas RuangDisabilitas
+8. Gunakan aplikasi RuangDisabilitas
      * Klik tombol "Masuk" jika sudah memiliki akun
      * Klik "Daftar" jika belum memiliki akun, kemudian lakukan proses masuk ke aplikasi
      * User akan masuk ke halaman home
-     * User dapat mengakses fitur development video yang berisi video tentang kesehatan mental disabilitas
+     * User dapat mengakses fitur development video yang berisi video tentang kesehatan mental disabilitas pada screen home
      * User dapat memilih fitur pengembangan diri yang berisi informasi dan komunitas terkait kesehatan mental
      * User dapat memilih psikolog disertai juru bahasa isyarat dan melakukan konsultasi
      * User dapat edit profil, melihat pricing, logout, dll
+
+**Penjelasan halaman** 
+---
+1. Halaman Daftar, apabila pengguna belum memiliki akun maka harus mendaftar terlebih dahulu melalui halaman ini. Cara pendaftarannya juga mudah dengan memasukkan nama, jenis disabilitas, email, dan password. Setelah meng-klik tombol daftar maka akan dikirimkan email verifikasi. Selanjutnya setelah pengguna menverifikasi email maka dapat masuk melalui halaman masuk. 
+2. Halaman Masuk, pengguna dapat masuk ke aplikasi dengan mengisikan email dan password pada halaman ini. 
+3. Pengguna yang lupa dengan password ketika akan masuk ke aplikasi dapat mereset password melalui halaman ini, dengan mengisikan email yang terkait dengan akun yang dimiliki.
+4. Halaman Home, pengguna dapat mulai menggunakan fitur yang tersedia pada aplikasi. Pada halaman Home terdapat development video dan rekomendasi psikolog. 
+5. Halaman Development Video, tersedia beberapa video pengembangan diri kesehatan mental, dimana juga terdapat video yang menggunakan bahasa isyarat. 
+6. Halaman Psikolog, berisi daftar psikolog yang tersedia. Pengguna dapat memilih psikolog untuk berkonsultasi. 
+7. Halaman Detail, berisi detail psikolog beserta Juru Bahasa Isyarat (JBI) dan pengguna dapat berkonsultasi melalui fitur video call, call, ataupun chat. 
+8. Alur konsultasi adalah dengan membayar dengan sesuai pricing yang ditentukan dan membayar dapat melalui m-banking ataupun e-money yang di integrasikan dengan xendit
+9. Halaman Pengembangan Diri pada bagian Information, berisi berbagai informasi atau artikel mengenai berita dan kisah-kisah pejuang kesehatan mental para penyandang disabilitas. 
+10. Halaman Pengembangan Diri pada bagian Community, berisi beberapa komunitas dimana pengguna juga dapat bergabung untuk saling mendukung. 
+11. Halaman Profil berisi pengaturan, informasi aplikasi, terms & condition, dll
